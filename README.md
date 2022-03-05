@@ -9,7 +9,7 @@ When considering `Sentiment Analysis`, there are two keys involved which are `Po
  -- `Subjectivity`: When there are no `Sentiments` in a sentence. 
  
  ### Packages:
- There are many Sentiment Packages such as `Vader`, `Pacy`. In this project i am using `TextBlob` which a `NLP` librabry. 
+ There are many Sentiment Packages such as `Vader`, `Pacy`. In this project i am using `TextBlob` which is a `NLP` librabry. 
  
  ### Error_Handling
  Use `try`,`except` to handle error in your code.
