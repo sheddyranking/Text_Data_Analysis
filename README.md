@@ -11,3 +11,6 @@ When considering `Sentiment Analysis`, there are two keys involved which are `Po
  ### Packages:
  There are many Sentiment Packages such as `Vader`, `Pacy`. In this project i am using `TextBlob` which a `NLP` librabry. 
  
+ ### Error_Handling
+ Use `try`,`except` to handle error in your code.
+ 
