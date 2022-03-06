@@ -14,3 +14,10 @@ When considering `Sentiment Analysis`, there are two keys involved which are `Po
  ### Error_Handling
  Use `try`,`except` to handle error in your code.
  
+### Wordcloud of your Positive sentiment (` polarity of +1`) and Negative  sentiments(`polarity of -1`)
+this can be done in few ways:
+
+-- `Applying Filter` on the `comments`
+
+-- `write a query` with `pandas`
+
