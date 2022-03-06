@@ -41,4 +41,11 @@ This are words that donot make any sense in Analysis. such as `He`, `Him`, `Is`,
 
 -- `wordcloud` has parameters that removes this stopwords . ie `(stopwords = reset(STOPWORDS)`.
 
+#### Negative comment Visuation.
+![Negative_comment](https://user-images.githubusercontent.com/42388234/156906533-eddf03ea-0648-4b6e-b168-9d0bce3216f8.Png)
+
+#### Positive comment Visuation.
+![Positive_comment](https://user-images.githubusercontent.com/42388234/156906543-c7927959-686c-41a6-ab99-8fa01958497f.Png)
+
+
 
