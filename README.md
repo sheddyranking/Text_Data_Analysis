@@ -36,7 +36,9 @@ pip install .
 
 ```
 
-#### stopword 
-this are words that donot make any sense in Analysis. such as `He`, `Him`, `Is`, `The`. 
+#### stopword. 
+This are words that donot make any sense in Analysis. such as `He`, `Him`, `Is`, `The`. 
+
+-- `wordcloud` has parameters that removes this stopwords . ie `(stopwords = reset(STOPWORDS)`.
 
 
