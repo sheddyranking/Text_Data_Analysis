@@ -21,6 +21,7 @@ The second package I'll be using to perform the sentiment Analysis is `Wordcloud
    -- `wordcloud`:analysis give regard to the `keyword` with the bigger `Font`, therfore any `keyword` with this attribute has the `higher priority`.
    
    -- `wordcloud` : data must also be stored in `String` nature before being passed.
+   
 #### Instaling wordcloud.
 `wordcloud` can be tricky when installing . irrespective of command prompt or conda prompt.. open and run as `administrator` and excute the following line of codes below.
 
