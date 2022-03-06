@@ -16,7 +16,7 @@ When considering ` Texblob Sentiment Analysis`, there are two keys involved whic
  Use `try`,`except` to handle error in your code.
  
 ### Package2:
-The second package I'll be using to perform the sentiment Analysis is `Wordcloud`.
+The second package I'll be using to perform `visualization` on the  sentiment Analysis is `Wordcloud`.
 
    -- `wordcloud`:analysis give regard to the `keyword` with the bigger `Font`, therfore any `keyword` with this attribute has the `higher priority`.
    
