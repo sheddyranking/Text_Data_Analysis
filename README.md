@@ -36,3 +36,7 @@ pip install .
 
 ```
 
+#### stopword 
+this are words that donot make any sense in Analysis. such as `He`, `Him`, `Is`, `The`. 
+
+
