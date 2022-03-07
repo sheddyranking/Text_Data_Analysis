@@ -64,6 +64,11 @@ After iterating the `emoji_list`, you need to compute it into `frequncies`, whic
 
 -- The second way is `Glob`, which is consider to be the best way.
 
+#### Most Common econdings for reading data.
+
+-- `latin`, `UTF-8`, `iso-88591` (essential in reading complex data example is japanese data), `cp-1252`
+
+
 
 
 
