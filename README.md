@@ -48,5 +48,7 @@ This are words that donot make any sense in Analysis. such as `He`, `Him`, `Is`,
 -- `pip install emoji` on `conda prompt` or `Cmd prompt` open and run as `administrator`
 
 #### Note:
-After iterating the `emoji_list`, you need to compute it into `frequncies`, which means you need to come up with data in the form of `Dict`.
-this can be implemented completely from `Scratch`, or using `count`. But in this analysis we shall be using `Collections models`. 
+After iterating the `emoji_list`, you need to compute it into `frequncies`, which means you need to come up with data in the form of `Dict`. this can be implemented completely from `Scratch`, or using `count`. But in this analysis we shall be using `Collections models`. 
+
+
+
