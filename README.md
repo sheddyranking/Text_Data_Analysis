@@ -58,4 +58,17 @@ This are words that donot make any sense in Analysis. such as `He`, `Him`, `Is`,
 After iterating the `emoji_list`, you need to compute it into `frequncies`, which means you need to come up with data in the form of `Dict`. this can be implemented completely from `Scratch`, or using `count`. But in this analysis we shall be using `Collections models`. 
 
 
+### Problem Statement  => Collecting the Entire data of Youtube.
+
+-- The first way to do this by using the `OS`, interating with the `OS` and using a `path` to access all the files.
+
+-- The second way is `Glob`, which is consider to be the best way.
+
+
+
+
+
+
+
+
 
