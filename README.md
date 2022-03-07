@@ -52,10 +52,14 @@ This are words that donot make any sense in Analysis. such as `He`, `Him`, `Is`,
 ### Problem Statement  => Emoji  Analysis.
 
 -- `!pip install emoji` on `Jupyter notebook`.
+
 -- `pip install emoji` on `conda prompt` or `Cmd prompt` open and run as `administrator`
 
 #### Note:
 After iterating the `emoji_list`, you need to compute it into `frequncies`, which means you need to come up with data in the form of `Dict`. this can be implemented completely from `Scratch`, or using `count`. But in this analysis we shall be using `Collections models`. 
+
+#### Emoji Visualization.
+![emoji](https://user-images.githubusercontent.com/42388234/157077250-cb57d5ca-deda-400c-8879-597563990c14.png)
 
 
 
