@@ -42,3 +42,8 @@ This are words that donot make any sense in Analysis. such as `He`, `Him`, `Is`,
 -- `wordcloud` has parameters that removes this stopwords . ie `(stopwords = reset(STOPWORDS)`.
 
 
+### Problem Statement  => Emoji  Analysis.
+
+-- `!pip install emoji` on `Jupyter notebook`.
+-- `pip install emoji` on `conda prompt` or `Cmd prompt` open and run as `administrator`
+
