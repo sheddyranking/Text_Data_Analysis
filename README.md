@@ -73,6 +73,13 @@ After iterating the `emoji_list`, you need to compute it into `frequncies`, whic
 -- `latin`, `UTF-8`, `iso-8859-1` (essential in reading complex data example is japanese data), `cp-1252`
 
 
+### Problem Statement  => Which Category has the Maximum Likes.
+
+The category file was clean and coverted to `dict`, then,the `Category_name` in the `dict` wa map with `category_id` in the `full_df` and store in a `column` created in the `full_df`.
+
+-- finding the maximum likes in the category can be archived with `groupby` as well but we used `boxplot` to visualized. 
+
+
 
 
 
