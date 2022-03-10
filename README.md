@@ -79,6 +79,10 @@ The category file was clean and coverted to `dict`, then,the `Category_name` in 
 
 -- finding the maximum likes in the category can be archived with `groupby` as well but we used `boxplot` to visualized. 
 
+#### Visualized most liked category.
+![most_like_category](https://user-images.githubusercontent.com/42388234/157568635-4981313b-6991-4523-89ae-22fdd3893993.Png)
+
+
 
 
 
