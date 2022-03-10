@@ -87,6 +87,8 @@ The category file was clean and coverted to `dict`, then,the `Category_name` in 
 
 The three most important `keys` to consider when solving this kind of problem are `Like_rate`, `Dislike-rate`, `Comment_rate`.
 
+#### Analysis weather your Viewes will affect your likes or not.
+In this case you can use `Scatter plot` or `Regplot` to check and analys it using `correlation` and visualized it using `heatmap`
 
 
 
