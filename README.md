@@ -88,7 +88,7 @@ The category file was clean and coverted to `dict`, then,the `Category_name` in 
 The three most important `keys` to consider when solving this kind of problem are `Like_rate`, `Dislike-rate`, `Comment_rate`.
 
 #### Analysis weather your Viewes will affect your likes or not.
-In this case you can use `Scatter plot` or `Regplot` to check and analys it using `correlation` and visualized it using `heatmap`
+In this case you can use `Scatter plot` or `Regplot` to check and also `correlation` and visualized it using `heatmap`
 
 ##### Note.
 when using `seaborn regplot` in `jupyter notebook` always set `ci=None`, for it to execute.
