@@ -83,6 +83,9 @@ The category file was clean and coverted to `dict`, then,the `Category_name` in 
 ![most_like_category](https://user-images.githubusercontent.com/42388234/157568635-4981313b-6991-4523-89ae-22fdd3893993.Png)
 
 
+### Problem Statement  =>  Find out weather Audience are Engaged or not.
+
+The three most important `keys` to consider when solving this kind of problem are `Like_rate`, `Dislike-rate`, `Comment_rate`.
 
 
 
