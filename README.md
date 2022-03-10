@@ -75,7 +75,7 @@ After iterating the `emoji_list`, you need to compute it into `frequncies`, whic
 
 ### Problem Statement  => Which Category has the Maximum Likes.
 
-The category file was clean and coverted to `dict`, then,the `Category_name` in the `dict` wa map with `category_id` in the `full_df` and store in a `column` created in the `full_df`.
+The category file was clean and coverted to `dict`, then,the `Category_name` in the `dict` was map with `category_id` in the `full_df` and store in a `column` created in the `full_df`.
 
 -- finding the maximum likes in the category can be archived with `groupby` as well but we used `boxplot` to visualized. 
 
@@ -86,6 +86,10 @@ The category file was clean and coverted to `dict`, then,the `Category_name` in 
 ### Problem Statement  =>  Find out weather Audience are Engaged or not.
 
 The three most important `keys` to consider when solving this kind of problem are `Like_rate`, `Dislike-rate`, `Comment_rate`.
+
+#### Like rate:
+![likes_rate](https://user-images.githubusercontent.com/42388234/157765781-39171b0f-dfbd-421c-99b1-7f99bc10e215.png)
+
 
 #### Analysis weather your Viewes will affect your likes or not.
 In this case you can use `Scatter plot` or `Regplot` to check and also `correlation` and visualized it using `heatmap`
