@@ -96,7 +96,7 @@ when using `seaborn regplot` in `jupyter notebook` always set `ci=None`, for it 
 
 ### Problem Statement  => Which chanel has the highest trending videos?
 
-In this project the data frame had only `channel_tile` and `video_id`, so we used a `groupby` function to group the `video_id's` according to there `channel_title`. 
+In this project the data frame had only `channel_tile` and `video_id`, so we used a `groupby` function to group the `video_id's` according to there `channel_title`. and renamed the `video_id's` column to `total_video` according to there `channel_title` respectfully.
 
 
 
