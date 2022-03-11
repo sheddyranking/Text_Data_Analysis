@@ -94,6 +94,11 @@ In this case you can use `Scatter plot` or `Regplot` to check and also `correlat
 when using `seaborn regplot` in `jupyter notebook` always set `ci=None`, for it to execute.
 
 
+### Problem Statement  => Which chanel has the highest trending videos?
+
+In this project the data frame had only `channel_tile` and `video_id`, so we used a `groupby` functon to count the videos each `channel_title` has according to there `video_it`.   
+
+
 
 
 
