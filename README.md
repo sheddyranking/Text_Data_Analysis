@@ -102,6 +102,9 @@ when using `seaborn regplot` in `jupyter notebook` always set `ci=None`, for it 
 
 In this project the data frame had only `channel_tile` and `video_id`, so we used a `groupby` function to group the `video_id's` according to there `channel_title`. and renamed the `video_id's` column to `total_video` according to there `channel_title` respectfully, the channel with the highest count of `video_id` had the trending vidoes. 
 
+### Problem Statement  => Does Punctuation in a title and tags have any relations with views,likes,dislikes and comments?.
+
+We have to extracts all the `punctuations` from `channel_title` or `tags`, and this can be done completely from `scratch` or using python build in modules like `Regular expression`, `Strings`. in this project we shall use the `string` module. 
 
 
 
