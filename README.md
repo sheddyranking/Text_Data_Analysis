@@ -100,6 +100,7 @@ when using `seaborn regplot` in `jupyter notebook` always set `ci=None`, for it 
 
 ### Problem Statement  => Analyse trending videos
 
+<<<<<<< HEAD
 In this project the data frame had only `channel_tile` and `video_id`, so we used a `groupby` function to group the `video_id's` according to there `channel_title`. and renamed the `video_id's` column to `total_video` according to there `channel_title` respectfully, the channel with the highest count of `video_id` had the trending vidoes. 
 
 ### Problem Statement  => Does Punctuation in a title and tags have any relations with views,likes,dislikes and comments?.
@@ -107,6 +108,12 @@ In this project the data frame had only `channel_tile` and `video_id`, so we use
 We have to extracts all the `punctuations marks` from `title`, `channel_title` or `tags`, and this can be done completely from `scratch` or using python build in modules like `Regular expression`, `Strings`. in this project we shall use the `string` module. 
 
 --- To check if the punctuatons will affect the `views`,`likes`,`dislikes` or `comments`. use `correlatoin` to  check the `count punctuations`  from `title`, `channel_title` or `tags` on the `views`,`likes`,`dislikes` or `comments`. 
+=======
+In this project the data frame had only `channel_title` and `video_id`, so we used a `groupby` function to group the `video_id's` according to there `channel_title`. and renamed the `video_id's` column to `total_video` according to there `channel_title` respectfully, the channel with the highest count of `video_id` had the trending vidoes. 
+
+#### Visualized Trending videos.
+![trending videos](https://user-images.githubusercontent.com/42388234/157886292-88b1b517-fedf-4e80-82b0-c7c652c3f75a.png)
+>>>>>>> 0a5d911c2ad20b5faedb56c925551df009be57b8
 
 
 
