@@ -111,6 +111,10 @@ We have to extracts all the `punctuations marks` from `title`, `channel_title` o
 
 --- To check if the punctuatons will affect the `views`,`likes`,`dislikes` or `comments`. use `correlatoin` to  check the `count punctuations`  from `title`, `channel_title` or `tags` on the `views`,`likes`,`dislikes` or `comments`. 
 
+#### title punctuation count plot.
+![title_punc_count](https://user-images.githubusercontent.com/42388234/158010215-22392d15-2cda-4bc3-ad7c-c3dd458fc63e.png)
+
+
 
 
 
