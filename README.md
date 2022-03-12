@@ -104,7 +104,9 @@ In this project the data frame had only `channel_tile` and `video_id`, so we use
 
 ### Problem Statement  => Does Punctuation in a title and tags have any relations with views,likes,dislikes and comments?.
 
-We have to extracts all the `punctuations` from `title`, `channel_title` `tags`, and this can be done completely from `scratch` or using python build in modules like `Regular expression`, `Strings`. in this project we shall use the `string` module. 
+We have to extracts all the `punctuations` from `title`, `channel_title` or `tags`, and this can be done completely from `scratch` or using python build in modules like `Regular expression`, `Strings`. in this project we shall use the `string` module. 
+
+--- To check if the punctuatons will affect the `views`,`likes`,`dislikes` or `comments`. use `correlatoin` check the `count punctuations` on the `views`,`likes`,`dislikes` or `comments`. 
 
 
 
